@@ -3,7 +3,7 @@
 - **Autor**: Vicente Gomis
 
 # Curiosidades
-El patrón del puzle más difícil de resolver se resuelve en 31 movimientos. Los dos patrones más difíciles son los siguientes:
+El patrón más difícil de resolver se resuelve en 31 movimientos. Los dos patrones más difíciles son los siguientes:
 ```java
  8 6 7               6 4 7
  2 5 4               8 5  
