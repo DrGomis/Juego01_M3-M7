@@ -13,9 +13,9 @@ El patrón más difícil de resolver se resuelve en 31 movimientos. Los dos patr
 
 
 # Acceso rápido
-- [Código con interfaz](https://github.com/M5Gomis/Juego01_M3-M7/blob/master/Puzle/src/Puzle.java)
-- [Código para terminal](https://github.com/M5Gomis/Juego01_M3-M7/blob/master/Puzle.java)
-- [Ejecutable del juego](https://github.com/M5Gomis/Juego01_M3-M7/blob/master/Puzle.jar)
+- [Código con interfaz](https://github.com/DrGomis/Juego01_M3-M7/blob/master/Puzle/src/Puzle.java)
+- [Código para terminal](https://github.com/DrGomis/Juego01_M3-M7/blob/master/Puzle.java)
+- [Ejecutable del juego](https://github.com/DrGomis/Juego01_M3-M7/blob/master/Puzle.jar)
 
 # Funcionalidades
 - Controlador de movimientos.
@@ -28,7 +28,7 @@ El patrón más difícil de resolver se resuelve en 31 movimientos. Los dos patr
 
 
 # Modo pruebas
-En la [línea 382](https://github.com/M5Gomis/Juego01_M3-M7/blob/5d212d5f5631b9c42f9a1029c0a562f635c793b2/Puzle/src/Puzle.java#L382) (o CTRL+F: `semi-resuelto`) se halla la parte del código para hacer pruebas mediante el botón en la interfaz "**Hacer trampas**".
+En la [línea 382](https://github.com/DrGomis/Juego01_M3-M7/blob/5d212d5f5631b9c42f9a1029c0a562f635c793b2/Puzle/src/Puzle.java#L382) (o CTRL+F: `semi-resuelto`) se halla la parte del código para hacer pruebas mediante el botón en la interfaz "**Hacer trampas**".
 
 # Imágenes
 ![Imagen01](https://i.imgur.com/v128qNR.png)
