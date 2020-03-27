@@ -1,5 +1,5 @@
-# Proyecto de juego para M3 y M7
-- **Tipo de juego**: [Versión con 8 del "Juego del 15"](https://es.wikipedia.org/wiki/Juego_del_15)
+# Proyecto de juego para M3 y M7 (UF1)
+- **Tipo de juego**: Versión con 8 del ["Juego del 15"](https://es.wikipedia.org/wiki/Juego_del_15)
 - **Autor**: Vicente Gomis
 
 # Curiosidades
